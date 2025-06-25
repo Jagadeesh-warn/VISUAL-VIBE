@@ -50,7 +50,7 @@ Visual Vibe is a **content-based image recommendation system** that connects you
 ## 🛠️ Setup & Installation
 
 ### 1. Clone the repo
-    git clone https://github.com/harshinithangavel/visual-vibe.git
+    git clone https://github.com/Jagadeesh-warn/visual-vibe.git
     cd visual-vibe
 
 ### 2. Create a virtual environment
